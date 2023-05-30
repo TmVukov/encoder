@@ -1,3 +1,3 @@
 # code-challenge
 
-Dependencies to install: react-routed-dom v6
+Dependencies to install: react-router-dom v6
